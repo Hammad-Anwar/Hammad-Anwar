@@ -1,7 +1,7 @@
 # Hi! I'm Hammad Anwar 👋
-## Software Engineering Intern 💻
+## Software Engineering 💻
 
-> I'm a software engineering focused on building reliable backend services, API-connected applications, and maintainable software systems. I enjoy structured troubleshooting, practical problem-solving, and learning how systems work end-to-end.
+> I'm a software engineer focused on building reliable backend services, API-connected applications, and maintainable software systems. I enjoy structured troubleshooting, practical problem-solving, and learning how systems work end-to-end.
 
 <br />
 <a href="https://github.com/Hammad-Anwar">View my projects</a>
@@ -13,7 +13,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-339933?style=for-the-badge&logo=c&logoColor=white)
 
 ## Frameworks & Technologies
 
@@ -41,11 +40,11 @@
 
 <hr />
 
-## Relevant Projects
+<!-- ## Relevant Projects
 
 - **Backend Reliability Study Project** — Python, TypeScript, API-connected components, modular services, structured debugging, and iterative testing.
 - **Java RPC Project** — A current project exploring service contracts, client-server communication, algorithms, modular architecture, request handling, and testing.
-- **Modular Product Workflows** — React, TypeScript, Node.js API integration, and reusable components for maintainable product behavior.
+- **Modular Product Workflows** — React, TypeScript, Node.js API integration, and reusable components for maintainable product behavior. -->
 
 ## Experience
 
